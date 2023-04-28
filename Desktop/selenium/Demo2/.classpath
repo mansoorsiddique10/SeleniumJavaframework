@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/byte-buddy-1.7.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/client-combined-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/client-combined-3.11.0-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/guava-23.6-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/junit-4.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/okhttp-3.9.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/okio-1.13.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/OneDrive_1_8-16-2022 (1)/selenium-server-standalone-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-examples-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-excelant-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-ooxml-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-ooxml-schemas-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/poi-scratchpad-3.14-20160307.jar"/>
+	<classpathentry kind="lib" path="C:/Users/mansoor.hussain/Downloads/POI jars/POI jars/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
